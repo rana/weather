@@ -5,7 +5,7 @@ An HTTP server that serves a weather forecast.
 ### Features
 * One GET endpoint
 * Accepts latitude and longitude as query parameters
-* Returns a short forecast in area for today (“Partly Cloudy” etc)
+* Returns a short forecast in an area for today (“Partly Cloudy” etc)
 * Returns a temperature characterization as “hot”, “cold”, or “moderate”
 * Uses the [National Weather Service API](https://www.weather.gov/documentation/services-web-api) for data
 
